@@ -1,0 +1,3 @@
+[submodule "submodules/travel-dj-setup-launch-script"]
+	path = submodules/travel-dj-setup-launch-script
+	url = git@github.com:CyrilGendarme/travel-dj-setup-launch-script.git
