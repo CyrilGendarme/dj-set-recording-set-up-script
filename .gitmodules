@@ -1,3 +1,9 @@
 [submodule "submodules/travel-dj-setup-launch-script"]
 	path = submodules/travel-dj-setup-launch-script
 	url = git@github.com:CyrilGendarme/travel-dj-setup-launch-script.git
+[submodule "submodules/DJControl-Inpulse-200-Mk2-to-Rekordbox"]
+	path = submodules/DJControl-Inpulse-200-Mk2-to-Rekordbox
+	url = git@github.com:CyrilGendarme/DJControl-Inpulse-200-Mk2-to-Rekordbox.git
+[submodule "submodules/rekordbox-databridge"]
+	path = submodules/rekordbox-databridge
+	url = git@github.com:CyrilGendarme/rekordbox-databridge.git
